@@ -45,3 +45,7 @@ body {
   right: 15px;
   left: auto;
 }
+
+#button {
+  margin: auto;
+}
